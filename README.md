@@ -16,7 +16,7 @@ This project is a C++ program that prints all the days of a given year, displayi
 ## 📥 Installation
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/Print-All-days-of-the-year.git
+    git clone https://github.com/ABODA-2006/Print-All-days-of-the-year.git
    2. Open the project in Visual Studio 2022.
 
 ## 🚀 Usage
