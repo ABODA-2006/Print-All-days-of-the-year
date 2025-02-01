@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\programming\projects\Print-All-days-of-the-year\Print-All-days-of-the-year\Source.cpp(25,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\programming\projects\Print-All-days-of-the-year\Print-All-days-of-the-year\Source.cpp(45,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Print-All-days-of-the-year.vcxproj -> E:\programming\projects\Print-All-days-of-the-year\x64\Debug\Print-All-days-of-the-year.exe
